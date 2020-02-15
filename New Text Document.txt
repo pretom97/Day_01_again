@@ -1,0 +1,13 @@
+1.first open our working folder then click on the address bar and write cmd "enter"
+
+2.write python in cmd and press enter
+
+3.Arethmetic Operator:
++ = Addition
+- = subtraction
+* = multipication
+/ = Divison
+% = Remainder
+**=Expanent {bass** power}
+
+
